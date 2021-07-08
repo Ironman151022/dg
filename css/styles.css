@@ -1,0 +1,162 @@
+
+.logo{
+padding-top: 2px;
+  height:100px;
+  width:200px;
+}
+
+.nav-item{
+  border: 0;
+  padding: 0 1rem;
+}
+.container-fluid{
+  background-color: #393737;
+}
+.title{
+  padding : 10rem 3rem 2rem;
+}
+.th{
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 100px;
+  padding-left:100px;
+  font-family: 'Cormorant Garamond', serif;
+  color:#c2986e;
+}
+.th-{
+  padding-left: 270px;
+  font-family: 'EB Garamond', serif;
+  color:#c2986e;
+}
+.about{
+  text-align: center;
+  padding:2rem 2rem 2rem 10rem;
+  color:#c2986e;
+}
+.ap{
+  padding-top: 20px;
+  padding-left: 100px;
+  width:90%;
+  font-family: 'EB Garamond', serif;
+  line-height: 1.5;
+  font-size: 20px;
+
+}
+.ah{
+  padding-right: 140px;
+  font-family: 'Cormorant Garamond', serif;
+  text-decoration: underline;
+
+}
+.f{
+  background-color: #393737;
+  padding:5rem 3rem ;
+}
+.feature3{
+  width:500px;
+  height:500px;
+}
+.feature{
+  text-align: center;
+}
+.an{
+    font-family: 'EB Garamond', serif;
+    font-size: 2rem;
+    color: #c2986e;
+    text-decoration: inherit;
+}
+.an:hover{
+  color: #7D5A50;
+}
+.car{
+  width:300px;
+  height:200px;
+}
+.card-header{
+  margin: 12px 7px 5px 7px;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+}
+.booking{
+  background-color: #ffffff;
+}
+.card-body{
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.3rem;
+  line-height: 2;
+}
+.c{
+  margin-bottom: 15px;
+}
+.b{
+  padding:5rem 3rem ;
+}
+.follow{
+  text-align: right;
+  padding-right: 4rem;
+}
+h4{
+font-family: 'EB Garamond', serif;
+font-size: 1.5rem;
+line-height: 2;
+color: #555555;
+
+
+}
+.contact{
+  background-color: #F9F9F9;
+}
+.fa{
+  color: #A19882;
+  padding:2rem 1rem;
+
+  text-decoration: none;
+}
+.fa:hover{
+  color: #476072;
+}
+.ff{
+  padding-right: 2.9rem;
+  padding-bottom: 1rem;
+  font-family: 'EB Garamond', serif;
+  line-height: 2rem;
+
+}
+p{
+  line-height: 2rem;
+  color: #AD9D9D;
+}
+.hr-{
+  width:60%;
+  size:2;
+  margin-left: 17rem;
+  color:#000000;
+}
+
+.r{
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+.co{
+  margin-left: 5rem;
+}
+.follow{
+  padding: 3rem 4rem;
+}
+.copyright{
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.ca{
+  padding: 6rem ;
+  width:50%;
+  left:24rem;
+  top:5rem;
+}
+.rw{
+  padding-top:7px;
+  padding-bottom: 1rem;
+}
